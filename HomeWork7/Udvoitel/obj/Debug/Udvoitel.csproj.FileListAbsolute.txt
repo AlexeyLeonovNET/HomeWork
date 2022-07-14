@@ -1,0 +1,10 @@
+C:\Users\Алексей\Desktop\Lesson_7\Udvoitel\bin\Debug\Udvoitel.exe.config
+C:\Users\Алексей\Desktop\Lesson_7\Udvoitel\bin\Debug\Udvoitel.exe
+C:\Users\Алексей\Desktop\Lesson_7\Udvoitel\bin\Debug\Udvoitel.pdb
+C:\Users\Алексей\Desktop\Lesson_7\Udvoitel\obj\Debug\Udvoitel.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Lesson_7\Udvoitel\obj\Debug\Udvoitel.Form1.resources
+C:\Users\Алексей\Desktop\Lesson_7\Udvoitel\obj\Debug\Udvoitel.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Lesson_7\Udvoitel\obj\Debug\Udvoitel.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Lesson_7\Udvoitel\obj\Debug\Udvoitel.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Lesson_7\Udvoitel\obj\Debug\Udvoitel.exe
+C:\Users\Алексей\Desktop\Lesson_7\Udvoitel\obj\Debug\Udvoitel.pdb
